@@ -1,0 +1,4 @@
+imagekitio==3.0.1
+python-dotenv==1.0.0
+pyfiglet==0.8.post1
+pyperclip==1.8.2
