@@ -1,4 +1,4 @@
 # Ignore everything in this directory
-*
+.idea
 # Except this file
 !.gitignore
