@@ -1,7 +1,7 @@
 ![By.Ouzrour](/logo.png)
 # Mail Body Generator
 ## Why MBG ?
-The main idea of this software is to be used after using 
+The main idea of this tool is to be used after using 
 Mailstyler . 
 ## How it work ?
 1. Export The "html" in a folder named "in" in the same directory as this py project
